@@ -6,7 +6,7 @@ A selection of my CAD designs created with Onshape.
 
 Add one section for each design. Replace the bracketed prompts, add a preview image, and link to a viewable Onshape document.
 
-### [Project name]
+### [ENES 100 - Data Extraction OTV]
 
 [Briefly describe what it is and what problem it solves.]
 
